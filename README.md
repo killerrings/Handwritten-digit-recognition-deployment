@@ -11,5 +11,5 @@ Deployed at: https://killerrings.github.io/Handwritten-digit-recognition-deploym
 
 • A glimpse of the web app:
 
-<img src="/demo.gif" width="898" height="394.27"/>
+<img src="/demo1.gif" width="898" height="394.27"/>
 
