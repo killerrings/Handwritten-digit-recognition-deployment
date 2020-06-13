@@ -11,4 +11,4 @@ Deployed at: https://killerrings.github.io/Handwritten-digit-recognition-deploym
 
 • A glimpse of the web app:
 
-<img src="readme-reource/demo.gif" width="898" height="394.27"/>
+<img src="/readme-reource/demo.gif" width="898" height="394.27"/>
