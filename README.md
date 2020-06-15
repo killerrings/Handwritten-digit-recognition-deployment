@@ -12,4 +12,9 @@ Deployed at: https://killerrings.github.io/Handwritten-digit-recognition-deploym
 • A glimpse of the web app:
 
 <img src="/demo1.gif" width="898" height="394.27"/>
-
+<br>
+• Installing
+Clone this repository to your local computer
+```
+git https://github.com/bensonruan/Hand-Written-Digit-Recognition.git
+```
