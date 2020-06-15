@@ -10,7 +10,7 @@ Deployed at: https://killerrings.github.io/Handwritten-digit-recognition-deploym
 • Installing<br>
 Clone this repository to your local computer
 ```
-https://github.com/killerrings/Handwritten-digit-recognition-deployment.git
+git clone https://github.com/killerrings/Handwritten-digit-recognition-deployment.git
 ```
 
 • Please do ⭐ the repository, if it helped you
